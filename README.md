@@ -1,1 +1,1 @@
-# exercise
+# mastering-git
